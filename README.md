@@ -39,7 +39,7 @@ Currently not published to Google Play Store.
 
 ## Features
 
-- Search weather by entering a city or country name.
+- Search weather by entering a city or country name
 - Display current weather and 7-day forecast
 - Switch between light and dark themes
 - Toggle between Celsius and Fahrenheit
@@ -74,7 +74,7 @@ Currently not published to Google Play Store.
 git clone https://github.com/viiviss/MyWeatherApp.git
 
 # Navigate into the project
-cd /MyWeatherApp
+cd MyWeatherApp
 
 # Build and run on device or emulator in Android Studio
 ```
@@ -104,9 +104,9 @@ List any configurable options or `.env` variables:
 
 ## Tech Stack
 
-- Language: Kotlin
-- Framework: Jetpack Compose
-- Tools: Retrofit, Gson, Material 3, Android ViewModel
+- **Language:** Kotlin
+- **Framework:** Jetpack Compose
+- **Tools:** Retrofit, Gson, Material 3, Android ViewModel
 
 ---
 
