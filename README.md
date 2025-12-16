@@ -1,29 +1,27 @@
-# 📦 MyWeatherApp
+# MyWeatherApp
 
 > An Android Weather App built with Jetpack Compose, showing current and forecasted weather data for a user-defined location.
 
 ---
 
-## 🧠 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Optional Store Download Links](#optional-store-download-links)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Screencast](#screencast)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Tech Stack](#tech-stack)
 - [Testing](#testing)
 - [Known Issues](#known-issues)
-- [License](#license)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
 ---
 
-## 📖 About
+## About
 
 MyWeatherApp is a weather application that retrieves real-time weather data using Open-Meteo's APIs and displays it in a clean UI.
 
@@ -33,22 +31,22 @@ MyWeatherApp is a weather application that retrieves real-time weather data usin
 
 ---
 
-## 📲 Optional Store Download Links
+## Optional Store Download Links
 
 Currently not published to Google Play Store.
 
 ---
 
-## ✨ Features
+## Features
 
-- ✅ Search weather by entering a city or country name.
-- ✅ Display current weather and 7-day forecast
-- ✅ Switch between light and dark themes
-- ✅ Toggle between Celsius and Fahrenheit
+- Search weather by entering a city or country name.
+- Display current weather and 7-day forecast
+- Switch between light and dark themes
+- Toggle between Celsius and Fahrenheit
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Screenshot 1](project-images/StartScreen01.png)
 ![Screenshot 2](project-images/StartScreen02.png)
@@ -59,13 +57,7 @@ Currently not published to Google Play Store.
 
 ---
 
-## 🎦 Screencast
-
-Link to the screencast: https://tuni-my.sharepoint.com/:v:/g/personal/viivi_p_siren_tuni_fi/EeppExWjzmFIq0TnCyzXFbEBhqJzIVk0Kl4c1wEQVIeSyw
-
----
-
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -79,16 +71,16 @@ Link to the screencast: https://tuni-my.sharepoint.com/:v:/g/personal/viivi_p_si
 
 ```bash
 # Clone the repository
-git clone https://github.com/viiviss/4A00EZ65-3005-mobile-development-siren-viivi.git
+git clone https://github.com/viiviss/MyWeatherApp.git
 
 # Navigate into the project
-cd 4A00EZ65-3005-mobile-development-siren-viivi/mob/project-work/MyWeatherApp
+cd /MyWeatherApp
 
 # Build and run on device or emulator in Android Studio
 ```
 ---
 
-## ⚙️ Usage
+## Usage
 
 How to run the app:
 
@@ -110,7 +102,7 @@ List any configurable options or `.env` variables:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Language: Kotlin
 - Framework: Jetpack Compose
@@ -118,24 +110,17 @@ List any configurable options or `.env` variables:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 No automated tests implemented. Manual testing was conducted on Android Emulator.
 
 ---
 
-## 🐞 Known Issues
+## Known Issues
 
 - Weather data cannot be refreshed without returning to the start screen
 - Location validation may be inaccurate
 
----
-
-## 📜 License
-
-```
-MIT License. See LICENSE file for details.
-```
 ---
 ## Attributions
 
@@ -143,12 +128,8 @@ MIT License. See LICENSE file for details.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, open an issue first to discuss.
 
 ---
-
-## 📫 Contact
-
-Project maintained by [Viivi Siren](mailto:viivi.p.siren@tuni.fi).
