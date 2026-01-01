@@ -49,10 +49,9 @@ Currently not published to Google Play Store.
 ## Screenshots
 
 ![Screenshot 1](project-images/StartScreen01.png)
-![Screenshot 2](project-images/StartScreen02.png)
-![Screenshot 3](project-images/WeatherScreen01.png)
-![Screenshot 4](project-images/WeatherScreen02.png)
-![Screenshot 5](project-images/DetailScreen01.png)
+![Screenshot 2](project-images/WeatherScreen01.png)
+![Screenshot 3](project-images/WeatherScreen02.png)
+![Screenshot 4](project-images/DetailScreen01.png)
 ![Screenshot 5](project-images/DetailScreen02.png)
 
 ---
@@ -133,3 +132,7 @@ No automated tests implemented. Manual testing was conducted on Android Emulator
 Pull requests are welcome. For major changes, open an issue first to discuss.
 
 ---
+
+## Contact
+
+Created by Viivi Siren
